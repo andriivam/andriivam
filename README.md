@@ -7,7 +7,7 @@
 - I have Master diploma of Hotel and restaurant bussines
 - Im able to speak ukranian, russian, english and french languages
 
-![](Emodji:mask:)
+(Emodji:mask:)
 
 - My passion is fishing
 
