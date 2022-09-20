@@ -2,7 +2,7 @@
 
 ## Short info about myself
 
-- My name is Andrii Vlasiuk. I'm 29 years old. Im came from ukraine but currently live in Belgium.
+- My name is Andrii Vlasiuk. I'm 30 years old. Im came from ukraine but currently live in Belgium.
   [my facebook](https://www.facebook.com)
 - I have Master diploma of Hotel and restaurant bussines
 - Im able to speak ukranian, russian, english and french languages :mask:
