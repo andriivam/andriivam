@@ -1,4 +1,4 @@
-# Hi there! :wave: I'm Andrii 
+# Hi there! :wave: I'm Andrii
     
                I was born in Ukraine :flag-ua: and currently reside in Belgium :flag-be:  
    
@@ -7,10 +7,10 @@
 ## About Me
 I'm Andrii, a junior developer with a strong desire to make a meaningful impact through code. I'm currently honing my skills in ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white).
 
-### Interests
+## Interests
 I'm passionate about a wide range of topics, including:
 - :globe_with_meridians: Web Development: Building responsive and user-friendly web applications.
-- :robot_face: Machine Learning: Exploring the possibilities of artificial intelligence.
+- :robot: Machine Learning: Exploring the possibilities of artificial intelligence.
 - :art: UX/UI Design: Crafting visually appealing and intuitive user interfaces.
 - :seedling: Open Source: Contributing to the global developer community.
 - :books: Continuous Learning: Reading tech blogs and books to stay inspired.
@@ -40,14 +40,14 @@ I'm passionate about a wide range of topics, including:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriivam&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
-### :mailbox: Connect with Me
+## :mailbox:  Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/andrii-vlasiuk-b0030789/)
 - Portfolio: [Portfolio Website](link)
 
-### :message: Get in Touch
+## :email:  Get in Touch
 
 I'm always open to new opportunities and collaborations. If you have a project idea or just want to say hi, feel free to reach out to me at andriivlasiuk2@gmail.com.
 
 
-Thanks for visiting my GitHub profile! 😄
+Thanks for visiting my GitHub profile! 😄 
