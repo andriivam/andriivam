@@ -1,6 +1,6 @@
 # Hi there! :wave: I'm Andrii
     
-               I was born in Ukraine :flag-ua: and currently reside in Belgium :flag-be:  
+               I was born in Ukraine : flag-ua : and currently reside in Belgium :flag-be:  
    
 
 
